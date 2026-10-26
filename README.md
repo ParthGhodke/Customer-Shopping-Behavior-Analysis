@@ -1,6 +1,8 @@
 📝 Project Description
 This repository contains a comprehensive analysis of consumer shopping patterns based on a dataset of 3,900 records. The project follows a full data science lifecycle, beginning with raw data processing in Python and ending with strategic business recommendations supported by SQL queries and Power BI visualizations.
-+4
+
+<img width="895" height="490" alt="1792123994009" src="https://github.com/user-attachments/assets/a199c16a-ed29-4031-9e8a-b49a4a1e72a3" />
+
 
 🔍 Key Objectives
 
